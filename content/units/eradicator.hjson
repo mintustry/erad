@@ -12,6 +12,14 @@ weapons: [
         recoil: 5 
         shake: 2
         reload: 9
+        hitSize: 26.5
+        rotateSpeed: 1.45
+        armor: 15
+        mechStepParticles: true
+        mechStepShake: 0.75
+        canDrown: false
+        mechFrontSway: 1.9
+        mechSideSway: 0.6
         bullet: {
             type: BasicBulletType 
             pierce: true
@@ -21,6 +29,7 @@ weapons: [
             height: 33
             lifetime: 35
             fragVolcityMin: 0.5
+            damage: 10
             splashDamage: 18
             splashDamageRadius: 30
             fragBullets: 2
