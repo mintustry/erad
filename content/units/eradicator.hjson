@@ -1,0 +1,39 @@
+type: mech
+speed: 0.35
+health: 44000
+weapons: [
+    {
+        name: eradicator-weapon
+        top: false
+        x: 21.5
+        y: 1
+        shooty: 11
+        recoil: 5 
+        shake: 2
+        reload: 9
+        bullet: {
+            type: BasicBulletType
+            pierce: true
+            pierceCap: 10
+            speed: 4.25
+            width: 14
+            height: 33
+            lifetime: 35
+            fragVolcityMin: 0.5
+            splashDamage: 18
+            splashDamageRadius: 30
+            fragBullets: 2
+            fragLifeMin: 0
+            fragCone: 30
+            fragBullet: BasicBulletType
+                width: 10
+                height: 10
+                piecre: true
+                piecreBuilding: true
+                piecreCap: 3
+                lifetime: 20
+                splashDamage: 15
+                splashDamageRadius: 15
+        }
+    }
+]

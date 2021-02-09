@@ -1,0 +1,8 @@
+name: unit
+displayName: unit
+description: unit
+author: unit
+version: 1.4.8
+main: h
+minGameVersion: 120
+repo: sharlotte-mobile/examplemod
