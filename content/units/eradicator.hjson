@@ -12,7 +12,7 @@ weapons: [
         shake: 2
         reload: 9
         bullet: {
-            type: BasicBulletType
+            type: BasicBulletType 
             pierce: true
             pierceCap: 10
             speed: 4.25
@@ -25,7 +25,8 @@ weapons: [
             fragBullets: 2
             fragLifeMin: 0
             fragCone: 30
-            fragBullet: BasicBulletType
+            fragBullet: {
+                type: BasicBulletType
                 width: 10
                 height: 10
                 piecre: true
