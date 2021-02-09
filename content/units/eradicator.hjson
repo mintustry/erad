@@ -1,4 +1,5 @@
 type: mech
+name: eradicator
 speed: 0.35
 health: 44000
 weapons: [
@@ -15,7 +16,7 @@ weapons: [
             type: BasicBulletType 
             pierce: true
             pierceCap: 10
-            speed: 4.25
+            speed: 10
             width: 14
             height: 33
             lifetime: 35
