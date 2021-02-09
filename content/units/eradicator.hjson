@@ -35,6 +35,7 @@ weapons: [
                 lifetime: 20
                 splashDamage: 15
                 splashDamageRadius: 15
+                }
         }
     }
 ]
