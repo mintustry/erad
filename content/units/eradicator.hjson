@@ -32,8 +32,8 @@ weapons: [
             damage: 10
             splashDamage: 18
             splashDamageRadius: 30
-            fragBullets: 2
-            fragLifeMin: 0
+            fragBullets: 5 //3
+            fragLifeMin: 5 //0
             fragCone: 30
             fragBullet: {
                 type: BasicBulletType
