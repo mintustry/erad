@@ -32,8 +32,8 @@ weapons: [
             damage: 10
             splashDamage: 18
             splashDamageRadius: 30
-            fragBullets: 5 //3
-            fragLifeMin: 5 //0
+            fragBullets: 3 //3
+            fragLifeMin: 0 //0
             fragCone: 30
             fragBullet: {
                 type: BasicBulletType
@@ -41,7 +41,7 @@ weapons: [
                 height: 10
                 piecre: true
                 piecreBuilding: true
-                piecreCap: 3
+                piecreCap: 30
                 lifetime: 20
                 splashDamage: 15
                 splashDamageRadius: 15
