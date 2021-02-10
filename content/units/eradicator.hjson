@@ -42,6 +42,7 @@ weapons: [
                 piecre: true
                 piecreBuilding: true
                 piecreCap: 30
+                speed: 5
                 lifetime: 20
                 splashDamage: 15
                 splashDamageRadius: 15
