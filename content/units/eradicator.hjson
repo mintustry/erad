@@ -28,7 +28,7 @@ weapons: [
             width: 14
             height: 33
             lifetime: 35
-            fragVolcityMin: 0.5
+            fragVolcityMin: 5
             damage: 10
             splashDamage: 18
             splashDamageRadius: 30
