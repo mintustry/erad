@@ -23,7 +23,7 @@ weapons: [
         bullet: {
             type: BasicBulletType 
             pierce: true
-            pierceCap: 10
+            pierceCap: 8
             speed: 10
             width: 14
             height: 33
@@ -34,14 +34,14 @@ weapons: [
             splashDamageRadius: 30
             fragBullets: 3 //3
             fragLifeMin: 0 //0
-            fragCone: 30
+            fragCone: 60
             fragBullet: {
                 type: BasicBulletType
                 width: 10
                 height: 10
                 piecre: true
                 piecreBuilding: true
-                piecreCap: 30
+                piecreCap: 3
                 speed: 5
                 lifetime: 20
                 splashDamage: 15
